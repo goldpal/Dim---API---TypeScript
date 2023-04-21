@@ -1,0 +1,30 @@
+{
+  "name": "@destinyitemmanager/dim-api-types",
+  "version": "1.25.0",
+  "description": "TypeScript types for the DIM API",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "sideEffects": false,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DestinyItemManager/dim-api.git"
+  },
+  "author": "Ben Hollis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DestinyItemManager/dim-api/issues"
+  },
+  "keywords": [
+    "Destiny",
+    "Bungie",
+    "Bungie.net",
+    "TypeScript"
+  ],
+  "homepage": "https://github.com/DestinyItemManager/dim-api",
+  "devDependencies": {
+    "@types/node": "^10.14.8",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {}
+}
